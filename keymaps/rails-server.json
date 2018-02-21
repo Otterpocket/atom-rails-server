@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "shift-ctrl-r": "rails-server:restart"
+  }
+}

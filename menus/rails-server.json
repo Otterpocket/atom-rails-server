@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Restart rails-server",
+        "command": "rails-server:restart"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Rails Server",
+          "submenu": [
+            {
+              "label": "Restart",
+              "command": "rails-server:restart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
