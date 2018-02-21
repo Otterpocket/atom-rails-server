@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "rails-server:restart"
   },
-  "repository": "https://github.com/atom/rails-server",
+  "repository": "https://github.com/Otterpocket/atom-rails-server",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
