@@ -2,7 +2,7 @@
   "name": "rails-server",
   "main": "./lib/rails-server",
   "version": "0.4.0",
-  "description": "A short description of your package",
+  "description": "Restart, Start and Stop Rails server from atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "rails-server:restart"
